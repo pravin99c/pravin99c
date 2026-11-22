@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/pravin-github-banner.svg" alt="Pravin Chaudhary — Backend Architect, AI and Full-Stack Engineering" width="100%" />
+<img src="assets/pravin-photo-banner.webp" alt="Pravin Chaudhary — Backend Architect, AI and Full-Stack Engineering" width="100%" />
 
 <br /><br />
 
