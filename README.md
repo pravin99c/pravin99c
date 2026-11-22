@@ -30,6 +30,20 @@ My core strengths are **backend architecture, performance optimization, multi-te
 - **Systems & scale:** Multi-tenancy, Redis caching, queue workers, webhooks, and event-driven processes.
 - **AI & full-stack exploration:** Python automation, local AI experimentation, React interfaces, and connected products.
 
+### 🌟 Featured open-source project
+
+<a href="https://github.com/pravin99c/scalable-task-manager"><strong>TaskForge — Scalable Task Manager</strong></a> · Laravel · Sanctum · MySQL · Redis · RBAC
+
+Building a task and project management application with a real Laravel backend, an admin interface, domain services, background-job foundations and automated tests.
+
+- **Code:** [Explore the Laravel application (`development` branch)](https://github.com/pravin99c/scalable-task-manager/tree/development)
+- **Roadmap:** [Security fixes, API hardening, UI work, CI and release milestones](https://github.com/pravin99c/scalable-task-manager/blob/main/docs/ROADMAP.md)
+- **Contribute:** [Documentation, tests and review guidelines](https://github.com/pravin99c/scalable-task-manager/blob/main/CONTRIBUTING.md)
+
+> **Project status:** In development, not production-ready. The `main` branch has the public overview; application code is on `development`. Known security and release-validation work remains.
+
+If the project is useful or you're interested in its progress, you're welcome to [explore or star TaskForge](https://github.com/pravin99c/scalable-task-manager).
+
 ### 🧰 Technology toolkit
 
 **Backend & application development**
